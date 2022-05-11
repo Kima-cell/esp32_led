@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/CMakeFiles/bootloader
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/CMakeFiles/bootloader.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/CMakeFiles/bootloader-complete.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/kima/Documents/touch-rehab/onboarding/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
